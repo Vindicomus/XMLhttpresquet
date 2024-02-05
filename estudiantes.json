@@ -1,0 +1,27 @@
+{
+    "alumno1": {
+      "nombre": "Pipito el condenas",
+      "edad": 20,
+      "ciudad": "Málaga",
+      "materias": ["Recreo", "Conocimiento del medio"]
+    },
+    "alumno2": {
+      "nombre": "El gringo tiroloco",
+      "edad": 21,
+      "ciudad": "Malaguita",
+      "materias": ["Historia de la locura", "tiradores"]
+    },
+    "alumno3": {
+      "nombre": "El macho",
+      "edad": 22,
+      "ciudad": "Malagón",
+      "materias": ["Lanzamiento de gominolas", "Programación"]
+    },
+    "alumno4": {
+      "nombre": "Tigretón",
+      "edad": 10087,
+      "ciudad": "ni idea",
+      "materias": ["JS", "HTML"]
+    }
+  }
+  

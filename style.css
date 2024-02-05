@@ -1,0 +1,24 @@
+
+
+.estudiante-card {
+    border: 2px solid #007BFF; /* Bordes de la tarjeta */
+    border-radius: 10px; /* Bordes redondeados */
+    padding: 15px; /* Espaciado interno */
+    margin-bottom: 20px; /* Margen inferior */
+    background-color: #FFF; /* Fondo blanco */
+    max-width: 400px; /* Máximo ancho de la tarjeta */
+    width: 100%; /* Ancho del contenido de la tarjeta */
+}
+.color-morado {
+    background-color: purple;
+    color: white;
+}
+
+/* Estilo para centrar las tarjetas */
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ocupa el 100% del alto de la ventana */
+}
+
